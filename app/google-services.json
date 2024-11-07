@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902609457134",
+    "project_id": "signin-b1d54",
+    "storage_bucket": "signin-b1d54.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902609457134:android:9e51ed9048f9e53d2508ff",
+        "android_client_info": {
+          "package_name": "com.example.googlesignincompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902609457134-4s9o6ql5naff21vlbnou2pgf62c8h31f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsf8su3aAncxb9zMXjpZGi_Zf4RMIFJD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902609457134-4s9o6ql5naff21vlbnou2pgf62c8h31f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
